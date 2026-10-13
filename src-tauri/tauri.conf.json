@@ -13,25 +13,15 @@
     "windows": [
       {
         "title": "Aetherium Cloud",
-        "width": 1400,
-        "height": 900,
-        "minWidth": 1000,
-        "minHeight": 700,
-        "resizable": true,
-        "fullscreen": false,
-        "decorations": true,
-        "transparent": false
+        "width": 1500,
+        "height": 960,
+        "minWidth": 1100,
+        "minHeight": 780,
+        "resizable": true
       }
     ],
     "security": {
-      "csp": null,
-      "dangerousRemoteDomainIpcAccess": [
-        {
-          "domain": "cloud.aetheriumos.com",
-          "windows": ["*"],
-          "plugins": ["*"]
-        }
-      ]
+      "csp": null
     }
   },
   "bundle": {
@@ -40,7 +30,6 @@
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",
-      "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
     ]

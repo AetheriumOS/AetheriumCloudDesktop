@@ -1,0 +1,14 @@
+/run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/deps/thiserror-6609866c5595e7a7.d: /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/build/thiserror-64babf36f6790481/out/private.rs
+
+/run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/deps/libthiserror-6609866c5595e7a7.rlib: /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/build/thiserror-64babf36f6790481/out/private.rs
+
+/run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/deps/libthiserror-6609866c5595e7a7.rmeta: /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/build/thiserror-64babf36f6790481/out/private.rs
+
+/home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/ars/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/build/thiserror-64babf36f6790481/out/private.rs:
+
+# env-dep:OUT_DIR=/run/media/ars/DATA/Aras/Siteler/AetheriumCloudDesktop/src-tauri/target/release/build/thiserror-64babf36f6790481/out
